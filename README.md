@@ -1,1 +1,1 @@
-ReMoRnN Sizi Seviyoru 🎈
+ReMoRnN Sizi Seviyor 🎈
