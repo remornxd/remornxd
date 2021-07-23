@@ -10,4 +10,3 @@
 <img src="https://komarev.com/ghpvc/?username=remornxd&label=Ziyaretçi%20Sayısı&color=0e1644" alt="remornxd" />
 
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=remornxd&show_icons=true&hide_title=true&theme=merko">
-<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=remornxd&show_icons=true&hide_title=true&theme=merko">
