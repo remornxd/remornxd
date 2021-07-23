@@ -1,4 +1,4 @@
-### Merhaba! Ben remornn Github Üzerinden Botlar Paylaşıcağım.
+### Merhaba! Ben remornn Yakında En Sağlam Botları Paylaşacağım.
 
 <img src="https://komarev.com/ghpvc/?username=remornxd&label=Ziyaretçi%20Sayısı&color=0e1644" alt="remornxd" />
 
