@@ -31,3 +31,17 @@
 
 #### Profile Visits 
 <img src="https://komarev.com/ghpvc/?username=remornxd&label=PROFILE%20VIEWS&color=eb0000" alt="remornxd" />
+
+<details>
+<summary>
+  More stuff about me
+</summary>
+
+<br >
+  
+  <!--END_SECTION:waka-->
+
+#### Github Stats
+
+![remornxd's github stats](https://github-readme-stats.vercel.app/api?username=remornxd&count_private=true&theme=tokyonight&hide=contribs,prs)
+
