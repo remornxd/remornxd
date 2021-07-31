@@ -30,7 +30,7 @@
 
 
 #### Profile Visits 
-<img src="https://komarev.com/ghpvc/?username=remornxd&label=PROFILE%20VIEWS&color=eb0000" alt="remornxd" />
+<img src="https://komarev.com/ghpvc/?username=remornxd&label=%20VİSİTORS&color=eb0000" alt="remornxd" />
 
 <details>
 <summary>
