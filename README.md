@@ -39,6 +39,17 @@
 
 <br >
   
+  #### Coding Stats
+
+<!--START_SECTION:waka-->
+```text  
+
+Java         12 hrs 41 mins                              75.20 % 
+Java Script  15 hrs 41 mins  ████████████████████▓░░░░   83.29 % 
+HTML         4 hr 50 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   10.61 % 
+YAML         1 hr 21 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+```
+  
   <!--END_SECTION:waka-->
 
 #### Github Stats
