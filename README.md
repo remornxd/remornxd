@@ -45,7 +45,6 @@
 #### Github Stats
 
 ![remornxd's github stats](https://github-readme-stats.vercel.app/api?username=remornxd&count_private=true&theme=tokyonight&hide=contribs,prs)
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=remornxd&theme=dark&count_private=true&show_icons=true&hide_border=true" />
   
  <h3>🌟 My Social Media Accounts!</h3>
 <p align="left">
