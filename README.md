@@ -54,6 +54,6 @@
 <a href="https://twitter.com/remornxd" target"blank_"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
 
 </h3> 🌟My Discord Account Active!</h3>
-
+<p align="left">
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/576110299929640976?hideDiscrim=true)](https://discord.com/users/576110299929640976)
 </p>
