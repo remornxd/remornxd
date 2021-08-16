@@ -55,5 +55,5 @@
 
 🌟My Discord Account Active
 
-           [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/576110299929640976?hideDiscrim=true)](https://discord.com/users/576110299929640976)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/576110299929640976?hideDiscrim=true)](https://discord.com/users/576110299929640976)
 </p>
