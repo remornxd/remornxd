@@ -43,7 +43,6 @@
   <!--END_SECTION:waka-->
 
 🌟My Discord Account Active!
-<p align="center">
   <a href="https://discord.com/users/576110299929640976"><img src="https://lanyard-profile-readme.vercel.app/api/576110299929640976" style="max-width:100%;"></a>
   
 #### Github Stats
