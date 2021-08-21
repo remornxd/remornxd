@@ -43,7 +43,9 @@
   <!--END_SECTION:waka-->
 
 🌟My Discord Account Active!
-  
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/576110299929640976?hideDiscrim=true)](https://discord.com/users/576110299929640976)
+</p>
+
 #### Github Stats
 
 ![remornxd's github stats](https://github-readme-stats.vercel.app/api?username=remornxd&count_private=true&theme=tokyonight&hide=contribs,prs)
