@@ -43,7 +43,6 @@
   <!--END_SECTION:waka-->
 
 🌟My Discord Account Active!
-![Discord](https://discord.c99.nl/widget/theme-4/576110299929640976.png)
   
 #### Github Stats
 
