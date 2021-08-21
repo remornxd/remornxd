@@ -43,8 +43,11 @@
   <!--END_SECTION:waka-->
 
 🌟My Discord Account Active!
-
-
+  </p>
+<p align="center">
+  <a href="https://discord.com/users/576110299929640976"><img src="https://lanyard-profile-readme.vercel.app/api/576110299929640976" style="max-width:100%;"></a>
+  </p>
+  
 #### Github Stats
 
 ![remornxd's github stats](https://github-readme-stats.vercel.app/api?username=remornxd&count_private=true&theme=tokyonight&hide=contribs,prs)
