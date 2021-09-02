@@ -45,14 +45,14 @@
 🌟My Discord Account Active!
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/576110299929640976)](https://discord.com/users/576110299929640976)
-  
-#### Github Stats
 
-![remornxd's github stats](https://github-readme-stats.vercel.app/api?username=remornxd&count_private=true&theme=tokyonight&hide=contribs,prs)
-  
- <h3>🌟 My Social Media Accounts!</h3>
+<h3>🌟 My Social Media Accounts!</h3>
 <p align="left">
 <a href="https://discord.com/users/576110299929640976" target"blank_"><img src="https://img.shields.io/badge/discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
 <a href="https://instagram.com/remornxd" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="https://github.com/remornxd" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
 <a href="https://twitter.com/remornxd" target"blank_"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+  
+#### Github Stats
+
+![remornxd's github stats](https://github-readme-stats.vercel.app/api?username=remornxd&count_private=true&theme=tokyonight&hide=contribs,prs)
