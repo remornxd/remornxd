@@ -44,7 +44,7 @@
 
 🌟My Discord Account Active!
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/576110299929640976?theme=light&bg=1f0b3b&animated=false&hideDiscrim=true&borderRadius=30px)](https://discord.com/users/576110299929640976)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/576110299929640976?theme=light&bg=09e2f7&animated=false&hideDiscrim=true&borderRadius=30px)](https://discord.com/users/576110299929640976)
 
 <h3>🌟 My Social Media Accounts!</h3>
 <p align="left">
