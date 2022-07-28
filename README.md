@@ -1,9 +1,5 @@
 ## Hi I'm remornn
 
-- 🔭 I am not currently working anywhere.
-- 🤔 I’m looking for help with Outstanding Video ideas.
-- ⚡ Fun fact: I play games and go to the to football very often.
-
 #### Top Technologies
 
 <!-- TODO: Make technologies links takes you to repositories -->
