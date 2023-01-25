@@ -38,10 +38,6 @@
   
   <!--END_SECTION:waka-->
 
-🌟My Discord Account Active!
-
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/576110299929640976?theme=light&bg=ffffff&animated=false&hideDiscrim=true&borderRadius=30px)](https://discord.com/users/576110299929640976)
-
 <h3>🌟 My Social Media Accounts!</h3>
 <p align="left">
 <a href="https://discord.com/users/576110299929640976" target"blank_"><img src="https://img.shields.io/badge/discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
